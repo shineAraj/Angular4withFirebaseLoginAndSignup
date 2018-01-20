@@ -1,8 +1,10 @@
-# Login / SignUp with Firebase in Angular 4
+# Firebase Authentication in Angular 4 (sign in and Sign Up)
 
-* Bootstrap and jquery Intergrated
-* Firebase integrated
 * Firebase authentication ( Email and Password)
+* Firebase integrated
+* Bootstrap and jquery Intergrated
+
+
 
  NPM INSTALL and then ng serve to run this project
 
